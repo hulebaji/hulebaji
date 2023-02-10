@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulebaji&show_icons=true&theme=algolia)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark](https://github-profile-trophy.vercel.app/?username=hulebaji&margin-w=15))](https://github.com/hulebaji/github-profile-trophy)
+
 <!--
 **hulebaji/hulebaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
