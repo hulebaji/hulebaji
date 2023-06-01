@@ -39,7 +39,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/hulebaji/hulebaji/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: hulebaji@pm.me.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: hulebaji@pm.me">hulebaji@pm.me</a>
 </p>
 
 <hr>
